@@ -1,0 +1,57 @@
+Псевдокод для Registration
+   Steps:
+   
+   1. Registration
+   Open Instagram
+   1. if (Registration form)
+   Press link "Sign up"
+   else open Instagram
+   
+   2. If (Registration box)
+   push button "PHONE"
+   else Press link "Sign in" 
+   3. Ef (Phone) input a = random number XXXXXXXXXXX
+   Else if (a = false) step 3
+   else step 2
+   
+   4. if (input a = True) push Button "Next"
+   Else step 3
+   
+   5. if ( Box "EnterCode") input in textbox "Confirmation Code"  code = codeFromSMS
+    else if (code = false) step 4
+   
+   6. if (Box "Name and Password") input in TextBox "Full name"  Name = random name, in TextBox "Password" input Password = random password
+   else if (Name = false) step 6
+   else if (Password = false) step 6
+   else push Button "Continue and Sync Contacts" 
+   
+   7. if  Box ("AddBirthday") Radio-buttons "Date" Month = Mar, Date = 15, Years = 1995
+      else if (Radio-buttons "Date" = false) step 7
+   else push Button "Next"
+   
+   8. if  (Box "Welcome") push Button "Next"
+      else step 7
+   
+   9. if (Box "FindFriends") Link  "Skip"
+      else step 8
+   
+   10. if (modal window) Link  "Skip"
+      else step 9
+   
+   11. if (Box "Add Photo") Link "Skip"
+      else step 10
+   
+   12. if (Page "People") in Header link "Next"
+      else step 11
+   
+   13. if (step 12 = true) PrintScreen
+      else step 12
+   
+   
+   
+   
+   
+   
+   
+   
+   
